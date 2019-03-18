@@ -1,9 +1,9 @@
 
 {
   "users": [
-    { "username": "feryrahmad", "title": "Post 1" },
-    { "username": "yaelahferr", "title": "Post 2" },
-    { "username": "rahmadz", "title": "Post 3" }
+    { "username": "feryrahmad", "email": "fery@sobatpedia.id" },
+    { "username": "yaelahferr", "email": "yaelahferr@gmail.com" },
+    { "username": "rahmadz", "email": "rahmadz@fr34kz.tech" }
 ],
   "website": [
     {
@@ -16,7 +16,7 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "yaelahferr"
   }
 }
 
