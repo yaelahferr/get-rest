@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+{ 
+  "first_name" : "Fery",
+  "last_name" : "Rahmad",
+  "location" : "Yogyakarta",
+  "websites" : [ 
+    {
+      "description" : "SobatPedia",
+      "URL" : "https://www.sobatpedia.id/"
+    },
+    {
+      "desciption" : "landing",
+      "URL" : "https://www.sobatpedia.id/landing"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "social_media" : [
+    {
+      "description" : "telegram",
+      "link" : "https://telegram.com/rahmadz"
+    },
+    {
+      "description" : "facebook",
+      "link" : "https://www.facebook.com/ferryrahmad8"
+    },
+    {
+      "description" : "github",
+      "link" : "https://github.com/yaelahferr"
+    }
+  ]
 }
