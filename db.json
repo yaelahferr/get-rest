@@ -1,10 +1,13 @@
-
 {
-  "users": [
-    { "username": "feryrahmad", "email": "fery@sobatpedia.id" },
-    { "username": "yaelahferr", "email": "yaelahferr@gmail.com" },
-    { "username": "rahmadz", "email": "rahmadz@fr34kz.tech" }
+  "bio": [
+    { "nama": "Fery Rahmadz", "kelas": "D3 Teknik Informatika 03", "email":"rahmadz@fr34kz.tech", "telegram":"@rahmadz", "github":"yaelahferr" }
 ],
+  "sosialmedia": [
+    {
+      "sosialmedia": "instagram", 
+      "URL": "https://www.instagram.com/yaelahferr"
+},
+
   "website": [
     {
       "description": "SobatPedia", 
