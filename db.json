@@ -1,12 +1,10 @@
 
 {
-  "posts": [
-    { 
-      "firstname": "Fery",
-      "last_name": "Rahmadz",
-      "location" : "Yogyakarta",
-    }
- ],
+  "users": [
+    { "username": "feryrahmad", "title": "Post 1" },
+    { "username": "yaelahferr", "title": "Post 2" },
+    { "username": "rahmadz", "title": "Post 3" }
+],
   "website": [
     {
       "description": "SobatPedia", 
